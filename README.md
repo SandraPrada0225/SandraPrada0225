@@ -5,11 +5,10 @@
 🎓 Estudiante de Ingeniería Telemática y Tecnología en Sistematización de Datos.
 
 🚀 Actualmente fortaleciendo mis conocimientos en:
-- Backend con Go (Golang)
+- Backend con Go (Golang), Java, c++, kotlin
 - PostgreSQL y bases de datos relacionales
 - Arquitectura limpia
 - Git y GitHub
-- Docker y Linux
 - APIs REST
 
 ---
@@ -20,8 +19,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
