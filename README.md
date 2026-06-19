@@ -26,10 +26,10 @@
 
 ## 📌 Proyectos destacados
 
-### 🍦 Heladeria API
-API REST desarrollada desde cero para la gestión de una heladería utilizando Go y PostgreSQL.
+### 🍦 BubbleGum Dulceria API
+API REST desarrollada desde cero para la gestión de una dulceria utilizando Go y MySQL.
 
-🔗 https://github.com/SandraPrada0225/Heladeria-api
+🔗 https://github.com/SandraPrada0225/BubbleGum-API
 
 ---
 
